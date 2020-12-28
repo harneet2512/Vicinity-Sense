@@ -1,2 +1,2 @@
 # Social_Distancing
-Social distancing detector using Open CV
+Social distancing  using Open CV
