@@ -1,2 +1,2 @@
 # Social_Distancing
-Social distancing  using Open CV
+Social distancing project using Open CV
