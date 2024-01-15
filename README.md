@@ -3,10 +3,10 @@
 This project focuses on optic disc segmentation using a YOLOv3-based object detection approach. The code is designed for detecting and classifying objects, with a primary focus on identifying the optic disc in medical images.
 
 ## Prerequisites
-Python 3.x
-OpenCV
-NumPy
-YOLO-Framework
+Python 3.x <br>
+OpenCV <br>
+NumPy <br>
+YOLO-Framework <br>
 
 ## Usage
 Download YOLOv3 Weights, Configuration, and COCO Class Names:
