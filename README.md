@@ -3,7 +3,7 @@
 This repository contains a Python script for pedestrian detection in a video using YOLOv3 (You Only Look Once version 3) object detection model. The code utilizes the OpenCV library for computer vision tasks.
 
 <p align="center">
-  <img src="https://github.com/harneet2512/Vicinity-Sense/assets/62827797/74ec49c6-096a-4a50-8e42-321cab43fdf9" alt="Result Output">
+  <img src="https://github.com/harneet2512/Vicinity-Sense/assets/62827797/74ec49c6-096a-4a50-8e42-321cab43fdf9" alt="Result Output" width="800">
 </p>
 
 ## Prerequisites
