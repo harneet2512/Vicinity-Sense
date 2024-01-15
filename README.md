@@ -1,14 +1,14 @@
 # Vicinity Sense
-##Overview
+## Overview
 This project focuses on optic disc segmentation using a YOLOv3-based object detection approach. The code is designed for detecting and classifying objects, with a primary focus on identifying the optic disc in medical images.
 
-##Prerequisites
+## Prerequisites
 Python 3.x
 OpenCV
 NumPy
 YOLO-Framework
 
-##Usage
+## Usage
 Download YOLOv3 Weights, Configuration, and COCO Class Names:
 
 Obtain the YOLOv3 weights file (yolov3.weights).
