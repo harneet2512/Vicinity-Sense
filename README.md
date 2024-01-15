@@ -29,7 +29,7 @@ Define the path to the video file (video_path variable).
 Run the Script:
 
 ## Output
-The script generates an output video file named "output2.avi" containing the annotated video with bounding boxes and risk level information.
+The script generates an output video file named "output.avi" containing the annotated video with bounding boxes and risk level information.
 
 Feel free to adjust the parameters and integrate this code into your projects. If you encounter any issues or have suggestions for improvement, please open an issue in the repository.
 
