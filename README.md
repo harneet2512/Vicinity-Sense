@@ -1,12 +1,18 @@
 # Vicinity Sense
 ## Overview
-This project focuses on optic disc segmentation using a YOLOv3-based object detection approach. The code is designed for detecting and classifying objects, with a primary focus on identifying the optic disc in medical images.
+This repository contains a Python script for pedestrian detection in a video using YOLOv3 (You Only Look Once version 3) object detection model. The code utilizes the OpenCV library for computer vision tasks.
+
+<p align="center">
+  <img src="https://github.com/harneet2512/Vicinity-Sense/assets/62827797/74ec49c6-096a-4a50-8e42-321cab43fdf9" alt="Result Output">
+</p>
 
 ## Prerequisites
 Python 3.x <br>
 OpenCV <br>
 NumPy <br>
 YOLO-Framework <br>
+
+
 
 ## Usage
 Download YOLOv3 Weights, Configuration, and COCO Class Names:
@@ -22,6 +28,10 @@ Define Video Path:
 Define the path to the video file (video_path variable).
 Run the Script:
 
+## Output
+The script generates an output video file named "output2.avi" containing the annotated video with bounding boxes and risk level information.
+
+Feel free to adjust the parameters and integrate this code into your projects. If you encounter any issues or have suggestions for improvement, please open an issue in the repository.
 
 
-Execute the script to initiate the optic disc segmentation.
+
